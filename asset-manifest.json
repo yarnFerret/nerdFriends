@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nerdfriends/static/css/main.282f99e6.chunk.css",
+    "main.js": "/nerdfriends/static/js/main.8a74c4ec.chunk.js",
+    "main.js.map": "/nerdfriends/static/js/main.8a74c4ec.chunk.js.map",
+    "runtime-main.js": "/nerdfriends/static/js/runtime-main.7908eddf.js",
+    "runtime-main.js.map": "/nerdfriends/static/js/runtime-main.7908eddf.js.map",
+    "static/js/2.89467edf.chunk.js": "/nerdfriends/static/js/2.89467edf.chunk.js",
+    "static/js/2.89467edf.chunk.js.map": "/nerdfriends/static/js/2.89467edf.chunk.js.map",
+    "index.html": "/nerdfriends/index.html",
+    "precache-manifest.07d44574a15c209276bb583e6203d6c0.js": "/nerdfriends/precache-manifest.07d44574a15c209276bb583e6203d6c0.js",
+    "service-worker.js": "/nerdfriends/service-worker.js",
+    "static/css/main.282f99e6.chunk.css.map": "/nerdfriends/static/css/main.282f99e6.chunk.css.map",
+    "static/js/2.89467edf.chunk.js.LICENSE.txt": "/nerdfriends/static/js/2.89467edf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7908eddf.js",
+    "static/js/2.89467edf.chunk.js",
+    "static/css/main.282f99e6.chunk.css",
+    "static/js/main.8a74c4ec.chunk.js"
+  ]
+}
